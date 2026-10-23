@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "date": "2026-10-22",
-  "notes": "Primera versión: cuentas, planes, conexión con TikTok LIVE y con el juego Roblox Dance (automática o con código), pruebas sin directo y actualizaciones automáticas.",
+  "version": "1.0.1",
+  "date": "2026-10-23",
+  "notes": "Los aviones del juego muestran bien el nombre de quien regala.",
   "url": "https://github.com/cristiancordova1207/TikTok-Dance-Releases/raw/main/Roblox-Dance.exe"
 }
