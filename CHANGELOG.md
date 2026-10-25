@@ -1,5 +1,11 @@
 # Roblox Dance · novedades
 
+## v1.0.2 · 2026-10-25
+
+- Ahora puedes comprar durante la prueba gratis: pulsa Comprar en tu cuenta o en los minutos que te quedan.
+- Las cuentas nuevas tienen 30 minutos de prueba gratis.
+- Corregido: el botón Actualizar ya instala la nueva versión y vuelve a abrir el programa.
+
 ## v1.0.1 · 2026-10-23
 
 - Los aviones del juego muestran bien el nombre de quien regala.
