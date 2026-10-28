@@ -1,5 +1,10 @@
 # Roblox Dance · novedades
 
+## v1.0.3 · 2026-10-27
+
+- Nuevo: barra de progreso al actualizar el programa.
+- Corregido: el programa se reinicia solo ya actualizado (sin errores de Python).
+
 ## v1.0.2 · 2026-10-25
 
 - Ahora puedes comprar durante la prueba gratis: pulsa Comprar en tu cuenta o en los minutos que te quedan.
