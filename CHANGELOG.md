@@ -1,5 +1,11 @@
 # Roblox Dance · novedades
 
+## v1.0.4 · 2026-10-28
+
+- Regalo gigante: elige qué regalo pone al que lo envía como gigante bailando detrás (centro, izquierda, derecha)
+- Overlay para TikTok LIVE Studio que enseña qué regalo da el gigante
+- Modo AFK: cada X minutos Roblox salta solo aunque estés en otra ventana
+
 ## v1.0.3 · 2026-10-27
 
 - Nuevo: barra de progreso al actualizar el programa.

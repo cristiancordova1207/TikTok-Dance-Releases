@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "date": "2026-10-27",
-  "notes": "Nuevo: barra de progreso al actualizar el programa.\nCorregido: el programa se reinicia solo ya actualizado (sin errores de Python).",
+  "version": "1.0.4",
+  "date": "2026-10-28",
+  "notes": "Regalo gigante: elige qué regalo pone al que lo envía como gigante bailando detrás (centro, izquierda, derecha)\nOverlay para TikTok LIVE Studio que enseña qué regalo da el gigante\nModo AFK: cada X minutos Roblox salta solo aunque estés en otra ventana",
   "url": "https://github.com/cristiancordova1207/TikTok-Dance-Releases/raw/main/Roblox-Dance.exe"
 }
